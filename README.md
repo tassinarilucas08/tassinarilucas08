@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lucas Santos Tassinari
 
-<!--
-**tassinarilucas08/tassinarilucas08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em back-end
+🧠 Trabalho principalmente com **PHP, Java e SQL**
+🚀 Buscando evoluir constantemente e construir soluções eficientes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias principais
+
+![PHP](https://img.shields.io/badge/-PHP-000?\&logo=php)
+![Java](https://img.shields.io/badge/-Java-000?\&logo=openjdk)
+![MySQL](https://img.shields.io/badge/-SQL-000?\&logo=mysql)
+
+---
+
+## 📊 Estatísticas
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=tassinarilucas08\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassinarilucas08\&layout=compact\&theme=radical)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tassinarilucas08\&theme=radical)
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/lucas-tassinari-028456295
+* 📧 Email: [tassicode@gmail.com](mailto:tassicode@gmail.com)
+* 📸 Instagram: https://instagram.com/tassinarilucas08
+
+---
+
+## 🎯 Sobre mim
+
+Sou um desenvolvedor com foco em back-end, trabalhando com tecnologias como PHP, Java e bancos de dados SQL.
+Gosto de resolver problemas na prática, construir sistemas organizados e evoluir constantemente como programador.
+
+---
+
+## 🚀 Objetivo
+
+Aprofundar meus conhecimentos em desenvolvimento back-end e participar de projetos cada vez mais desafiadores.
