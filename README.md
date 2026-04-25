@@ -22,12 +22,6 @@
 
 ---
 
-## 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tassinarilucas08\&theme=radical)
-
----
-
 ## 📫 Contato
 
 * 💼 LinkedIn: https://www.linkedin.com/in/lucas-tassinari-028456295
