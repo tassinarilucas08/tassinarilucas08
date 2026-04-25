@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Santos Tassinari
+# 👋 Prazer, Lucas Tassinari!
 
 💻 Desenvolvedor focado em back-end
 🧠 Trabalho principalmente com **PHP, Java e SQL**
