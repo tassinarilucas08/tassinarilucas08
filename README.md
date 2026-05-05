@@ -16,9 +16,9 @@
 
 ## 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=tassinarilucas08&show_icons=true" />
+![stats](https://github-readme-stats.vercel.app/api?username=tassinarilucas08&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassinarilucas08&layout=compact" />
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassinarilucas08&layout=compact)
 
 ---
 
