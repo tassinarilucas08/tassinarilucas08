@@ -14,14 +14,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tassinarilucas08&show_icons=true)
-
-![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tassinarilucas08&layout=compact)
-
----
-
 ## 📫 Contato
 
 * 💼 LinkedIn: https://www.linkedin.com/in/lucas-tassinari-028456295
